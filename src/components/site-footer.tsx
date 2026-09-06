@@ -136,9 +136,16 @@ export function SiteFooter({
             <Link href="/sitemap.xml" className="hover:text-white">
               Χάρτης ιστότοπου
             </Link>
-            <Link href="/studio" className="hover:text-white">
+            {/* A plain anchor, not a Link: the Studio has to load in its own
+                document. Soft-navigating into it appends @sanity/ui's global
+                stylesheet to the shared head, and its `* { margin: 0; padding: 0 }`
+                reset lives in a cascade layer declared after Tailwind's — so it
+                outranks every spacing utility. The stylesheet is never removed,
+                which left the site unstyled after a press of the back button. */}
+            {/* eslint-disable-next-line @next/next/no-html-link-for-pages */}
+            <a href="/studio" className="hover:text-white">
               Διαχείριση
-            </Link>
+            </a>
           </p>
         </div>
       </div>
