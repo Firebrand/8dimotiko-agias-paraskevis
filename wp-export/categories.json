@@ -1,0 +1,802 @@
+[
+  {
+    "id": 20,
+    "count": 4,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/covid-19/",
+    "name": "Covid 19",
+    "slug": "covid-19",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/20"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=20"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b1%ce%b3%ce%b3%ce%bb%ce%b9%ce%ba%ce%ac/",
+    "name": "Αγγλικά",
+    "slug": "%ce%b1%ce%b3%ce%b3%ce%bb%ce%b9%ce%ba%ce%ac",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/19"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=19"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "count": 23,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b1%ce%bd%ce%b1%ce%ba%ce%bf%ce%b9%ce%bd%cf%8e%cf%83%ce%b5%ce%b9%cf%82/",
+    "name": "Ανακοινώσεις",
+    "slug": "%ce%b1%ce%bd%ce%b1%ce%ba%ce%bf%ce%b9%ce%bd%cf%8e%cf%83%ce%b5%ce%b9%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/13"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=13"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 3,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b3%ce%b1%ce%bb%ce%bb%ce%b9%ce%ba%ce%ac/",
+    "name": "Γαλλικά",
+    "slug": "%ce%b3%ce%b1%ce%bb%ce%bb%ce%b9%ce%ba%ce%ac",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 251,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/uncategorized/",
+    "name": "Γενικά",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 14,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b3%ce%b5%ce%bd%ce%b9%ce%ba%ce%ae-%ce%b5%ce%bd%ce%b7%ce%bc%ce%ad%cf%81%cf%89%cf%83%ce%b7/",
+    "name": "Γενική Ενημέρωση",
+    "slug": "%ce%b3%ce%b5%ce%bd%ce%b9%ce%ba%ce%ae-%ce%b5%ce%bd%ce%b7%ce%bc%ce%ad%cf%81%cf%89%cf%83%ce%b7",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b3%cf%85%ce%bc%ce%bd%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae/",
+    "name": "Γυμναστική",
+    "slug": "%ce%b3%cf%85%ce%bc%ce%bd%ce%b1%cf%83%cf%84%ce%b9%ce%ba%ce%ae",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "count": 5,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b4%ce%ae%ce%bc%ce%bf%cf%82-%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%cf%80%ce%b1%cf%81%ce%b1%cf%83%ce%ba%ce%b5%cf%85%ce%ae%cf%82/",
+    "name": "Δήμος Αγίας Παρασκευής",
+    "slug": "%ce%b4%ce%ae%ce%bc%ce%bf%cf%82-%ce%b1%ce%b3%ce%af%ce%b1%cf%82-%cf%80%ce%b1%cf%81%ce%b1%cf%83%ce%ba%ce%b5%cf%85%ce%ae%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/18"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=18"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 33,
+    "count": 4,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b4%ce%b9%ce%b1%ce%ba%cf%81%ce%af%cf%83%ce%b5%ce%b9%cf%82/",
+    "name": "Διακρίσεις",
+    "slug": "%ce%b4%ce%b9%ce%b1%ce%ba%cf%81%ce%af%cf%83%ce%b5%ce%b9%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/33"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=33"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 50,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b4%cf%81%ce%ac%cf%83%ce%b5%ce%b9%cf%82/",
+    "name": "Δράσεις",
+    "slug": "%ce%b4%cf%81%ce%ac%cf%83%ce%b5%ce%b9%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/50"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=50"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "count": 4,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b5%ce%ba%cf%80%ce%b1%ce%b9%ce%b4%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%cf%84%ce%b7%ce%bb%ce%b5%cf%8c%cf%81%ce%b1%cf%83%ce%b7/",
+    "name": "Εκπαιδευτική Τηλεόραση",
+    "slug": "%ce%b5%ce%ba%cf%80%ce%b1%ce%b9%ce%b4%ce%b5%cf%85%cf%84%ce%b9%ce%ba%ce%ae-%cf%84%ce%b7%ce%bb%ce%b5%cf%8c%cf%81%ce%b1%cf%83%ce%b7",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/11"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=11"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "count": 9,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b5%ce%be-%ce%b1%cf%80%ce%bf%cf%83%cf%84%ce%ac%cf%83%ce%b5%cf%89%cf%82-%ce%b4%ce%b9%ce%b4%ce%b1%cf%83%ce%ba%ce%b1%ce%bb%ce%af%ce%b1/",
+    "name": "Εξ' Αποστάσεως Διδασκαλία",
+    "slug": "%ce%b5%ce%be-%ce%b1%cf%80%ce%bf%cf%83%cf%84%ce%ac%cf%83%ce%b5%cf%89%cf%82-%ce%b4%ce%b9%ce%b4%ce%b1%cf%83%ce%ba%ce%b1%ce%bb%ce%af%ce%b1",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "count": 7,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b8%ce%ad%ce%bc%ce%b1%cf%84%ce%b1-%cf%85%ce%b3%ce%b5%ce%af%ce%b1%cf%82/",
+    "name": "Θέματα Υγείας",
+    "slug": "%ce%b8%ce%ad%ce%bc%ce%b1%cf%84%ce%b1-%cf%85%ce%b3%ce%b5%ce%af%ce%b1%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/16"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=16"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 10,
+    "count": 3,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%ce%b9%cf%83%cf%84%ce%bf%cf%81%ce%b9%ce%ba%ce%ae-%ce%b5%cf%80%ce%ad%cf%84%ce%b5%ce%b9%ce%bf%cf%82/",
+    "name": "Ιστορική Επέτειος",
+    "slug": "%ce%b9%cf%83%cf%84%ce%bf%cf%81%ce%b9%ce%ba%ce%ae-%ce%b5%cf%80%ce%ad%cf%84%ce%b5%ce%b9%ce%bf%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/10"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "count": 3,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b5%cf%82-%ce%b7%ce%bc%ce%ad%cf%81%ce%b5%cf%82/",
+    "name": "Παγκόσμιες Ημέρες",
+    "slug": "%cf%80%ce%b1%ce%b3%ce%ba%cf%8c%cf%83%ce%bc%ce%b9%ce%b5%cf%82-%ce%b7%ce%bc%ce%ad%cf%81%ce%b5%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/8"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=8"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "count": 6,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%ae/",
+    "name": "Πληροφορική",
+    "slug": "%cf%80%ce%bb%ce%b7%cf%81%ce%bf%cf%86%ce%bf%cf%81%ce%b9%ce%ba%ce%ae",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/22"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=22"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "count": 9,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82/",
+    "name": "Πολιτισμός",
+    "slug": "%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b9%cf%83%ce%bc%cf%8c%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/12"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=12"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%cf%80%cf%81%ce%bf%cf%83%cf%89%cf%80%ce%b9%ce%ba%ce%ac-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%ad%ce%bd%ce%b1/",
+    "name": "Προσωπικά Δεδομένα",
+    "slug": "%cf%80%cf%81%ce%bf%cf%83%cf%89%cf%80%ce%b9%ce%ba%ce%ac-%ce%b4%ce%b5%ce%b4%ce%bf%ce%bc%ce%ad%ce%bd%ce%b1",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "count": 6,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%cf%83%cf%87%ce%bf%ce%bb%ce%b9%ce%ba%ce%ad%cf%82-%ce%b4%cf%81%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%cf%8c%cf%84%ce%b7%cf%84%ce%b5%cf%82/",
+    "name": "Σχολικές Δραστηριότητες",
+    "slug": "%cf%83%cf%87%ce%bf%ce%bb%ce%b9%ce%ba%ce%ad%cf%82-%ce%b4%cf%81%ce%b1%cf%83%cf%84%ce%b7%cf%81%ce%b9%cf%8c%cf%84%ce%b7%cf%84%ce%b5%cf%82",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/17"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=17"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "count": 5,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/category/%cf%88%cf%85%cf%87%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%ac-%ce%b8%ce%ad%ce%bc%ce%b1%cf%84%ce%b1/",
+    "name": "Ψυχολογικά Θέματα",
+    "slug": "%cf%88%cf%85%cf%87%ce%bf%ce%bb%ce%bf%ce%b3%ce%b9%ce%ba%ce%ac-%ce%b8%ce%ad%ce%bc%ce%b1%cf%84%ce%b1",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories/9"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?categories=9"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

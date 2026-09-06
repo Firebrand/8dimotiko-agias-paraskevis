@@ -1,0 +1,1094 @@
+[
+  {
+    "id": 26,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/digitalskills/",
+    "name": "`#DigitalSkills",
+    "slug": "digitalskills",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/26"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=26"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 35,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/chineseculture/",
+    "name": "#chineseculture",
+    "slug": "chineseculture",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/35"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=35"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/codeweek/",
+    "name": "#CodeWeek",
+    "slug": "codeweek",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/23"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=23"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/coding/",
+    "name": "#coding",
+    "slug": "coding",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/27"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=27"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 28,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/computerscience/",
+    "name": "#computerscience",
+    "slug": "computerscience",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/28"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=28"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 49,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/cooperation/",
+    "name": "#cooperation",
+    "slug": "cooperation",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/49"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=49"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 32,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/digital8thagiaparaskevi/",
+    "name": "#Digital8thAgiaParaskevi",
+    "slug": "digital8thagiaparaskevi",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/32"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=32"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 36,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/dimosagiasparaskevis/",
+    "name": "#dimosagiasparaskevis",
+    "slug": "dimosagiasparaskevis",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/36"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=36"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 30,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/education/",
+    "name": "#Education",
+    "slug": "education",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/30"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=30"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 31,
+    "count": 3,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/etwinning/",
+    "name": "#eTwinning",
+    "slug": "etwinning",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/31"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=31"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 46,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/europe_project-2/",
+    "name": "#europe_project",
+    "slug": "europe_project-2",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/46"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=46"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 34,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/greekchinese_friendship/",
+    "name": "#greekchinese_friendship",
+    "slug": "greekchinese_friendship",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/34"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=34"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 48,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/microbit-2/",
+    "name": "#Microbit",
+    "slug": "microbit-2",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/48"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=48"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 47,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/microbit_programming/",
+    "name": "#microbit_programming",
+    "slug": "microbit_programming",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/47"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=47"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 29,
+    "count": 3,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/programming/",
+    "name": "#programming",
+    "slug": "programming",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/29"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=29"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/programming-computerscience-codinglife-apps-codingisfun-digitalskills-coding-schoolawards-unesco-erasmus-etwinning-students-education/",
+    "name": "#programming #computerscience #codinglife #apps #codingisfun #DigitalSkills #coding #schoolawards #Unesco #Erasmus #eTwinning #Students #Education",
+    "slug": "programming-computerscience-codinglife-apps-codingisfun-digitalskills-coding-schoolawards-unesco-erasmus-etwinning-students-education",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/24"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=24"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/schoolawards/",
+    "name": "#schoolawards",
+    "slug": "schoolawards",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/25"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=25"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 40,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/collaborate/",
+    "name": "collaborate",
+    "slug": "collaborate",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/40"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=40"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 37,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/digital-printing/",
+    "name": "digital printing",
+    "slug": "digital-printing",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/37"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=37"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 39,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/esep/",
+    "name": "esep",
+    "slug": "esep",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/39"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=39"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 38,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/etwinning-2/",
+    "name": "etwinning",
+    "slug": "etwinning-2",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/38"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=38"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 42,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/europe_program/",
+    "name": "europe_program",
+    "slug": "europe_program",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/42"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=42"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 43,
+    "count": 2,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/europe_project/",
+    "name": "europe_project",
+    "slug": "europe_project",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/43"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=43"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 45,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/microbit/",
+    "name": "microbit",
+    "slug": "microbit",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/45"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=45"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 44,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/stem/",
+    "name": "stem",
+    "slug": "stem",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/44"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=44"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 41,
+    "count": 1,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/working_together/",
+    "name": "working_together",
+    "slug": "working_together",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/41"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=41"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "count": 0,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/%ce%b8%ce%ad/",
+    "name": "Θέ",
+    "slug": "%ce%b8%ce%ad",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/14"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=14"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "count": 0,
+    "description": "",
+    "link": "https://www.8dimotikoagp.gr/tag/%ce%b8%ce%ad%ce%bc%ce%b1%cf%84%ce%b1-%cf%85%ce%b3%ce%b5%ce%af%ce%b1%cf%82/",
+    "name": "Θέματα Υγείας",
+    "slug": "%ce%b8%ce%ad%ce%bc%ce%b1%cf%84%ce%b1-%cf%85%ce%b3%ce%b5%ce%af%ce%b1%cf%82",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags/15"
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://www.8dimotikoagp.gr/wp-json/wp/v2/posts?tags=15"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

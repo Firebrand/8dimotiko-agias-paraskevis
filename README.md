@@ -1,36 +1,61 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 8ο Δημοτικό Σχολείο Αγίας Παρασκευής
 
-## Getting Started
+Ο νέος ιστότοπος του 8ου Δημοτικού Σχολείου Αγίας Παρασκευής.
+Το περιεχόμενο διαχειρίζεται μέσα από το Sanity Studio, στη διεύθυνση
+[`/studio`](http://localhost:3000/studio).
 
-First, run the development server:
+## Για τους συντάκτες του σχολείου
+
+Ανοίξτε τη διεύθυνση **`/studio`** του ιστότοπου και συνδεθείτε με τον
+λογαριασμό σας. Στην αριστερή στήλη θα βρείτε:
+
+| Ενότητα | Τι περιέχει |
+| --- | --- |
+| **Νέα & Ανακοινώσεις** | Οι δημοσιεύσεις της αρχικής σελίδας και της σελίδας `/nea` |
+| **Σελίδες** | Οι σταθερές σελίδες (Το σχολείο μας, Σχολική Ζωή κ.λπ.) |
+| **Προσωπικό** | Ο κατάλογος εκπαιδευτικών και οι ώρες επικοινωνίας |
+| **Κατηγορίες** | Οι ετικέτες με τις οποίες ταξινομούνται τα νέα |
+| **Ανακοίνωση (μπάρα)** | Η ταινία στην κορυφή κάθε σελίδας — ενεργοποιείται με ένα κλικ |
+| **Μενού πλοήγησης** | Η δομή του μενού και των υποσελίδων |
+| **Ρυθμίσεις ιστότοπου** | Στοιχεία επικοινωνίας, αρχική σελίδα, γρήγοροι σύνδεσμοι |
+
+Μόλις πατήσετε **Publish**, οι αλλαγές εμφανίζονται στον ιστότοπο μέσα σε
+λίγα δευτερόλεπτα. Δεν χρειάζεται καμία άλλη ενέργεια.
+
+### Νέα δημοσίευση
+
+1. **Νέα & Ανακοινώσεις → Create**
+2. Συμπληρώστε **Τίτλος**, πατήστε **Generate** στο πεδίο *Διεύθυνση (slug)*
+3. Γράψτε μια **Σύντομη περιγραφή** (εμφανίζεται στις κάρτες και στην αναζήτηση)
+4. Ανεβάστε **Κύρια εικόνα** και γράψτε το **Κείμενο**
+5. **Publish**
+
+Στο κείμενο μπορείτε να προσθέσετε φωτογραφίες, συλλογές φωτογραφιών,
+συνημμένα αρχεία (PDF, Word), πίνακες, βίντεο και ηχητικά.
+
+## Για προγραμματιστές
 
 ```bash
+npm install
+cp .env.example .env.local   # συμπληρώστε το SANITY_API_TOKEN
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Ιστότοπος: <http://localhost:3000>
+- Studio: <http://localhost:3000/studio>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Τεχνολογίες: Next.js 16 (App Router), React 19, Tailwind CSS v4, Sanity v6,
+ανάπτυξη σε Vercel.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Λεπτομέρειες για την αρχιτεκτονική, τις εντολές και τη μετάπτωση από το
+WordPress: [`AGENTS.md`](./AGENTS.md).
 
-## Learn More
+### Χρήσιμες εντολές
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```bash
+npm run dev          # τοπική ανάπτυξη
+npm run build        # παραγωγικό build
+npm run typecheck    # έλεγχος τύπων
+npm run lint         # ESLint
+npm run migrate      # εισαγωγή του παλιού περιεχομένου WordPress στο Sanity
+```
