@@ -46,20 +46,36 @@ concurrent load on dynamic routes.
 
 ## Environment
 
-`.env.local` (never committed; `.gitignore` covers `.env*`):
+**Rendering the site needs no environment variables at all.** The dataset is
+public and only published content is queried, so `src/sanity/env.ts` defaults
+the project id (`dt6i1qpo`) and dataset (`production`). A fresh clone or a fresh
+Vercel import builds with zero configuration. Never add a Sanity token to the
+Vercel project — the site does not need one.
 
+Optional overrides:
+
+| Variable | Purpose |
+| --- | --- |
+| `NEXT_PUBLIC_SANITY_PROJECT_ID` / `_DATASET` / `_API_VERSION` | Point at a different project or dataset |
+| `NEXT_PUBLIC_SITE_URL` | Canonical origin; otherwise derived from Vercel's env vars, then localhost |
+| `SANITY_API_TOKEN` | **Only** used by `npm run migrate`. Keep it in `.env.local`. |
+
+`.gitignore` covers `.env*` (with `!.env.example`).
+
+### CORS is load-bearing
+
+Every origin that serves the site — production domain, preview URLs, localhost —
+must be registered with Sanity, or `<SanityLive />` cannot connect:
+
+```bash
+npx sanity cors add https://<domain> --credentials --project-id dt6i1qpo
 ```
-NEXT_PUBLIC_SANITY_PROJECT_ID=dt6i1qpo
-NEXT_PUBLIC_SANITY_DATASET=production
-NEXT_PUBLIC_SANITY_API_VERSION=2026-09-01
-SANITY_API_TOKEN=<editor token>
-```
 
-`NEXT_PUBLIC_SITE_URL` is optional; `src/lib/utils.ts#siteUrl()` falls back to
-Vercel's env vars and then localhost.
-
-New origins need a CORS entry:
-`npx sanity cors add <origin> --credentials --project-id dt6i1qpo`
+This matters beyond the Studio. `sanityFetch` caches with
+`revalidate: false` and on-demand tags, so pages are invalidated **only** when
+`<SanityLive />` receives a Live Content API event in a visitor's browser and
+calls back to revalidate. With CORS misconfigured, published edits will not
+appear. If the site ever seems frozen on old content, check CORS first.
 
 ## Layout of the code
 

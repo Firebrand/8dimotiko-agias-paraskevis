@@ -37,9 +37,12 @@
 
 ```bash
 npm install
-cp .env.example .env.local   # συμπληρώστε το SANITY_API_TOKEN
 npm run dev
 ```
+
+Δεν απαιτείται καμία ρύθμιση: το dataset του Sanity είναι δημόσιο και ο
+ιστότοπος διαβάζει μόνο δημοσιευμένο περιεχόμενο. Token χρειάζεται μόνο για
+την εντολή `npm run migrate` (αντιγράψτε το `.env.example` σε `.env.local`).
 
 - Ιστότοπος: <http://localhost:3000>
 - Studio: <http://localhost:3000/studio>
