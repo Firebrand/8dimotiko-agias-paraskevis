@@ -115,6 +115,24 @@ wp-export/                  Legacy WordPress JSON + the resumable asset cache
   `navigation` document rather than a parent/child field, so editors control
   both the menu and the landing page from one place.
 
+## Deployment
+
+Hosted on Vercel as `8dimotiko-agias-paraskevis`
+(<https://8dimotiko-agias-paraskevis.vercel.app>). Source:
+<https://github.com/Firebrand/8dimotiko-agias-paraskevis>.
+
+`vercel.json` pins `framework: nextjs`. Without it Vercel's detection falls back
+to "Other" and the build fails looking for a `dist` directory.
+
+Deploying manually: `npx vercel deploy --prod`.
+
+**Git auto-deploy is not connected yet.** `vercel git connect` fails until the
+Vercel GitHub App is authorised for the `Firebrand` account — do that once from
+the Vercel dashboard (Project → Settings → Git → Connect), after which every
+push to `master` deploys automatically.
+
+Remember to add any new domain to Sanity CORS (see above).
+
 ## Content model
 
 Documents: `post`, `page`, `category`, `staffMember`.
