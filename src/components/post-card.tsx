@@ -102,7 +102,7 @@ export function FeaturedPostCard({ post }: { post: PostCardData }) {
           className="-z-10 transition-transform duration-700 group-hover:scale-[1.04]"
         />
       ) : (
-        <span aria-hidden className="absolute inset-0 -z-10 bg-gradient-to-br from-brand-700 via-brand-600 to-sun-600" />
+        <span aria-hidden className="absolute inset-0 -z-10 bg-linear-to-br/oklch from-brand-700 via-brand-600 to-sun-600" />
       )}
       <span
         aria-hidden

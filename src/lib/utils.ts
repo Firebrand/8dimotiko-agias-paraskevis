@@ -69,9 +69,9 @@ export const ACCENT_CLASSES: Record<Accent, { chip: string; dot: string; hover: 
     hover: "hover:border-teal-200 hover:text-teal-700",
   },
   violet: {
-    chip: "bg-violet-50 text-violet-700 ring-violet-200",
-    dot: "bg-violet-500",
-    hover: "hover:border-violet-200 hover:text-violet-700",
+    chip: "bg-sky-50 text-sky-700 ring-sky-200",
+    dot: "bg-sky-500",
+    hover: "hover:border-sky-200 hover:text-sky-700",
   },
   amber: {
     chip: "bg-sun-50 text-sun-700 ring-sun-200",

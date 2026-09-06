@@ -72,7 +72,7 @@ export function SiteHeader({
     <header
       className={cx(
         "sticky top-0 z-50 transition-[background-color,box-shadow,backdrop-filter] duration-300",
-        scrolled ? "bg-white/85 shadow-[0_1px_0_rgb(15_18_34/0.07)] backdrop-blur-xl" : "bg-white/60 backdrop-blur-sm",
+        scrolled ? "bg-white/85 shadow-[0_1px_0_rgb(22_18_31/0.07)] backdrop-blur-xl" : "bg-white/60 backdrop-blur-sm",
       )}
     >
       <a

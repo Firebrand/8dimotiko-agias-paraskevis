@@ -4,41 +4,45 @@
   --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
   --font-display: var(--font-manrope), var(--font-inter), ui-sans-serif, sans-serif;
 
-  /* Electric indigo — the school's primary colour. */
-  --color-brand-50: #eef2ff;
-  --color-brand-100: #e0e7ff;
-  --color-brand-200: #c7d2fe;
-  --color-brand-300: #a5b4fc;
-  --color-brand-400: #818cf8;
-  --color-brand-500: #6366f1;
-  --color-brand-600: #4f46e5;
-  --color-brand-700: #4338ca;
-  --color-brand-800: #3730a3;
-  --color-brand-900: #312e81;
-  --color-brand-950: #1e1b4b;
+  /* Orchid violet — the school's primary colour (brand-500 is the reference tone). */
+  --color-brand-50: #faf5fd;
+  --color-brand-100: #f4e8fb;
+  --color-brand-200: #ead2f6;
+  --color-brand-300: #dbb2ed;
+  --color-brand-400: #c88ce0;
+  --color-brand-500: #b46ad0;
+  --color-brand-600: #9d4cb8;
+  --color-brand-700: #83359b;
+  --color-brand-800: #6c2c7f;
+  --color-brand-900: #5a2769;
+  --color-brand-950: #3a1046;
 
-  /* Warm accent used for highlights and calls to action. */
-  --color-sun-50: #fff8ed;
-  --color-sun-100: #ffefd4;
-  --color-sun-200: #ffdaa8;
-  --color-sun-300: #ffbe70;
-  --color-sun-400: #ff9737;
-  --color-sun-500: #ff7a11;
-  --color-sun-600: #f05d06;
-  --color-sun-700: #c74507;
-  --color-sun-800: #9e360e;
-  --color-sun-900: #7f2f0f;
+  /* Chartreuse accent used for highlights and calls to action. Very luminous, so
+     shades up to 500 need dark text on top and 700+ are the readable text tones.
+     The ramp warms towards gold as it darkens: a straight dark chartreuse reads
+     as olive green, which clashes with the violet. */
+  --color-sun-50: #fdfeea;
+  --color-sun-100: #fafdc9;
+  --color-sun-200: #f5fa98;
+  --color-sun-300: #eef25d;
+  --color-sun-400: #e2ee2b;
+  --color-sun-500: #d7e300;
+  --color-sun-600: #c0b000;
+  --color-sun-700: #8a6e00;
+  --color-sun-800: #6d5700;
+  --color-sun-900: #574600;
+  --color-sun-950: #2f2500;
 
-  --color-ink: #0f1222;
-  --color-ink-soft: #3f4463;
-  --color-mist: #f6f7fb;
+  --color-ink: #16121f;
+  --color-ink-soft: #453f52;
+  --color-mist: #f8f6fb;
 
   --radius-4xl: 2rem;
   --radius-5xl: 2.75rem;
 
-  --shadow-glow: 0 24px 60px -20px rgb(79 70 229 / 0.45);
-  --shadow-card: 0 1px 2px rgb(15 18 34 / 0.04), 0 12px 32px -12px rgb(15 18 34 / 0.14);
-  --shadow-card-hover: 0 2px 4px rgb(15 18 34 / 0.06), 0 28px 56px -20px rgb(15 18 34 / 0.28);
+  --shadow-glow: 0 24px 60px -20px rgb(157 76 184 / 0.45);
+  --shadow-card: 0 1px 2px rgb(22 18 31 / 0.04), 0 12px 32px -12px rgb(22 18 31 / 0.14);
+  --shadow-card-hover: 0 2px 4px rgb(22 18 31 / 0.06), 0 28px 56px -20px rgb(22 18 31 / 0.28);
 
   --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
 }
@@ -160,7 +164,7 @@
     width: 0.5rem;
     height: 0.5rem;
     border-radius: 999px;
-    background: linear-gradient(135deg, var(--color-brand-500), var(--color-sun-400));
+    background: linear-gradient(135deg in oklch, var(--color-brand-500), var(--color-sun-600));
   }
 
   .rich-text ol {
@@ -230,7 +234,14 @@
 
 @layer utilities {
   .text-gradient {
-    background-image: linear-gradient(100deg, var(--color-brand-600), var(--color-brand-400) 45%, var(--color-sun-500));
+    /* Interpolated in oklch so violet → gold sweeps through magenta instead of
+       the muddy grey-green that sRGB interpolation produces. */
+    background-image: linear-gradient(
+      100deg in oklch,
+      var(--color-brand-700),
+      var(--color-brand-500) 45%,
+      var(--color-sun-700)
+    );
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;

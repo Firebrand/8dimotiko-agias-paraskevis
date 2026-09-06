@@ -4,13 +4,15 @@ import { ArrowRight, External, Info, QUICK_LINK_ICONS } from "@/components/icons
 import type { QuickLink } from "@/lib/types";
 import { isExternal } from "@/lib/utils";
 
+/* Each halo carries its own text colour: the chartreuse accent is far too
+   luminous for white icons and needs a dark glyph instead. */
 const HALOS = [
-  "from-brand-600 to-brand-400",
-  "from-sun-500 to-sun-400",
-  "from-teal-600 to-teal-400",
-  "from-violet-600 to-violet-400",
-  "from-rose-500 to-rose-400",
-  "from-emerald-600 to-emerald-400",
+  "from-brand-600 to-brand-400 text-white",
+  "from-sun-500 to-sun-300 text-sun-950",
+  "from-teal-600 to-teal-400 text-white",
+  "from-sky-600 to-sky-400 text-white",
+  "from-rose-500 to-rose-400 text-white",
+  "from-emerald-600 to-emerald-400 text-white",
 ];
 
 export function QuickLinks({ links }: { links: QuickLink[] }) {
@@ -31,7 +33,7 @@ export function QuickLinks({ links }: { links: QuickLink[] }) {
             >
               <span
                 aria-hidden
-                className={`grid size-12 shrink-0 place-items-center rounded-2xl bg-gradient-to-br ${HALOS[index % HALOS.length]} text-white shadow-sm transition-transform duration-300 group-hover:scale-110`}
+                className={`grid size-12 shrink-0 place-items-center rounded-2xl bg-gradient-to-br ${HALOS[index % HALOS.length]} shadow-sm transition-transform duration-300 group-hover:scale-110`}
               >
                 <Icon className="size-6" />
               </span>

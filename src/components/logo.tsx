@@ -34,7 +34,7 @@ export function Logo({
       ) : (
         <span
           aria-hidden
-          className="grid size-11 shrink-0 place-items-center rounded-2xl bg-gradient-to-br from-brand-600 via-brand-500 to-sun-500 font-display text-xl font-extrabold text-white shadow-glow"
+          className="grid size-11 shrink-0 place-items-center rounded-2xl bg-linear-to-br/oklch from-brand-700 via-brand-600 to-sun-500 font-display text-xl font-extrabold text-white shadow-glow"
         >
           8
         </span>

@@ -9,7 +9,7 @@ import { cx, isExternal } from "@/lib/utils";
 
 const TONES = {
   info: "bg-brand-700 text-white",
-  warning: "bg-sun-600 text-white",
+  warning: "bg-sun-400 text-sun-950",
   urgent: "bg-rose-700 text-white",
 } as const;
 

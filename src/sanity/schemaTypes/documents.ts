@@ -25,10 +25,10 @@ export const category = defineType({
       initialValue: "blue",
       options: {
         list: [
-          { title: "Μπλε", value: "blue" },
+          { title: "Μωβ", value: "blue" },
           { title: "Τιρκουάζ", value: "teal" },
-          { title: "Βιολετί", value: "violet" },
-          { title: "Πορτοκαλί", value: "amber" },
+          { title: "Γαλάζιο", value: "violet" },
+          { title: "Λαχανί", value: "amber" },
           { title: "Ροζ", value: "rose" },
           { title: "Πράσινο", value: "green" },
         ],
