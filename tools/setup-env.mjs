@@ -1,5 +1,5 @@
 // Creates a Sanity editor token and writes it straight to .env.local.
-// The secret is never printed to stdout.
+// The secret is never printed to stdout
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
 import { readFile, writeFile } from "node:fs/promises";
